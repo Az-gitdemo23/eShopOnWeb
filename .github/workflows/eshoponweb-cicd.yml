@@ -1,5 +1,4 @@
 name: eShopOnWeb Build and Test
-
 on:
   push:
     branches:
